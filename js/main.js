@@ -1,0 +1,1 @@
+﻿console.warn("Omne principium grave!");
