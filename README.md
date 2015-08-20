@@ -5,4 +5,4 @@ Already know JavaScript? Great, you can help [contribute to the curriculum](http
 
 ## About
 
-Disclaimer: This project is just getting started. However, the concept is to build up a comprehensive digital JavaScript compendium. This unique JavaScript curriculum will leverage the online environment by using interactive examples help teach programming concepts. A freely accessible _"JavaScript: The Definitive Digital Guide"_ if you will.
+The vision for learn.js.org is to build unique JavaScript curriculum that leverages interactive examples to help teach programming concepts informed by the real-world experience of world-class developers. Given the tremendous velocity of JavaScript evolution, this is something that's only possible with a community driven, dynamic curriculum. A freely accessible _"JavaScript: The Definitive Digital Guide"_ if you will.
