@@ -5,4 +5,4 @@ Already know JavaScript? Great, you can help [contribute to the curriculum](http
 
 ## About
 
-The vision for learn.js.org is to build a unique JavaScript curriculum that leverages interactive examples to help teach programming concepts informed by the real-world experience of world-class developers. Given the tremendous velocity of JavaScript evolution, this is something that's only possible with a community driven, dynamic curriculum. A freely accessible _"JavaScript: The Definitive Digital Guide"_ if you will.
+The vision for learn.js.org is to build a unique JavaScript curriculum that leverages interactive examples to teach programming concepts that are informed by the real-world experience of world-class developers. Given the tremendous velocity of JavaScript evolution, this is something that is only possible with a community driven, dynamic curriculum. A freely accessible _"JavaScript: The Definitive Digital Guide"_ if you will.
